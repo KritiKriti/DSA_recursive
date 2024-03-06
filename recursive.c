@@ -10,8 +10,6 @@ int factorial(int n)
 int main()
 {
     int num;
-
-    // Input
     printf("Enter a number to find its factorial: ");
     scanf("%d", &num);
     if (num < 0)
